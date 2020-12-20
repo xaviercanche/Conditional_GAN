@@ -128,6 +128,8 @@ def build_discriminator(img_shape, num_classes, verbose=False):
 ```
 
 ## Resultados
-
-<img src="images/epoca1.png" width="750">
+- Primeras epocas:
+<img src="images/epoca1.png" width="300">
+<img src="images/epoca2.png" width="300">
+<img src="images/epoca3.png" width="300">
 
