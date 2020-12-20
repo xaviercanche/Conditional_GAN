@@ -129,7 +129,11 @@ def build_discriminator(img_shape, num_classes, verbose=False):
 
 ## Resultados
 - Primeras epocas:
-<img src="images/epoca1.png" width="300">
-<img src="images/epoca2.png" width="300">
-<img src="images/epoca3.png" width="300">
+<img src="images/epoca1.png" width="300"><img src="images/epoca2.png" width="300"><img src="images/epoca3.png" width="300">
+<img src="images/epoca4.png" width="300"><img src="images/epoca5.png" width="300"><img src="images/epoca6.png" width="300">
+
+- Predicción/Generación:
+<img src="images/epoca100.png" width="300"><img src="images/epoca200.png" width="300"><img src="images/epoca300.png" width="300">
+<img src="images/epoca400.png" width="300"><img src="images/epoca500.png" width="300"><img src="images/epoca600.png" width="300">
+
 
